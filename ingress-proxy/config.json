@@ -1,0 +1,14 @@
+{
+  "name": "Vacuum",
+  "version": "1.0",
+  "slug": "vacuum-ingress-proxy",
+  "description": "test fsdfsdf.",
+  "panel_icon": "mdi:robot-vacuum",
+  "ingress": true,
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "ports": {}
+}
